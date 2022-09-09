@@ -1,0 +1,35 @@
+.img{
+    width: 100%;
+}
+.blur {
+    filter: blur(5px);
+}
+.brightness {
+    filter: brightness(50%);
+}
+.contrast {
+    filter: contrast(70%);
+}
+.grayscale {
+    filter: grayscale(70%);
+}
+.huerotate {
+    filter: hue-rotate(50deg);
+}
+.invert {
+    filter: invert(100%);
+}
+.opacity {
+    filter: opacity(50%);
+}
+.saturate {
+    filter: saturate(7);
+}
+.sepia {
+    filter: sepia(100%);
+}
+.shadow {
+    filter: drop-shadow(8px 8px 10px red);
+}
+
+
